@@ -1,9 +1,6 @@
 # SVG-Logo-Generator-Challenge10
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## License
-This project is licensed under the MIT license. For more information, see the [license link](https://opensource.org/licenses/MIT).
-https://opensource.org/licenses/MIT
 
 ## Description
 SVG Logo Maker is a command-line application that enables users to generate custom SVG logos. The application prompts users for input regarding text, colors, and shapes, then generates an SVG file based on the provided information. This tool is perfect for developers and designers looking to quickly create scalable vector logos.
