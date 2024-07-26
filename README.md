@@ -84,7 +84,7 @@ To use this application, follow these steps:
 
 For questions or further information, please contact me:
 
-* [Email](mailto:prek.ps37@gmail.com?subject=[GitHub]%20Dev%20Connect)
+* Email - [prek.ps37@gmail.com](prek.ps37@gmail.com)
 
 * GitHub - [Preksha2408](https://github.com/Preksha2408/SVG-Logo-Generator-Challenge10.git)
 
