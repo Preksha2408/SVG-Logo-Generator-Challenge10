@@ -62,21 +62,21 @@ To use this application, follow these steps:
 
 # Features
 
-    * Create custom SVG logos through a simple command-line interface.
+* Create custom SVG logos through a simple command-line interface.
 
-    * Choose text, text color, background shape, and shape color.
+* Choose text, text color, background shape, and shape color.
 
-    * Generates a scalable vector graphic (SVG) file based on user input.
+* Generates a scalable vector graphic (SVG) file based on user input.
 
 # How to use this application 
 
-*  [Here is an example of questions and how the output will be generated](./images/Run-index.js-screenshot.png)   
+*  ![Here is an example of questions and how the output will be generated](./images/Run-index.js-screenshot.png)   
 
 # Testing 
 
 * Run " npm test "
 
-[Here](./images/npm-test-screenshot.png)     
+![Here](./images/npm-test-screenshot.png)     
 
 # Demo 
 
