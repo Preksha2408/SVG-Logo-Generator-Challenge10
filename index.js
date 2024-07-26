@@ -30,17 +30,17 @@ const questions = [
     {
         type: "input",
         name: "text",
-        message: "TEXT: Enter up to (3) Characters:",
+        message: "TEXT: Enter up to three Characters:",
     },
     {
         type: "input",
         name: "text-color",
-        message: "TEXT COLOR: Enter a color keyword (OR a hexadecimal number):",
+        message: "TEXT COLOR: Enter the color for the text (OR a hexadecimal number):",
     },
     {
         type: "input",
         name: "shape",
-        message: "SHAPE COLOR: Enter a color keyword (OR a hexadecimal number):",
+        message: "SHAPE COLOR: Enter a color for the shape (OR a hexadecimal number):",
     },
     {
         type: "list",
