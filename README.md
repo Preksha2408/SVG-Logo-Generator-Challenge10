@@ -80,14 +80,14 @@ To use this application, follow these steps:
 
 # Demo 
 
-* ![Click here](https://drive.google.com/file/d/12k_Am8167lxMVvJp1KIhN8UokyJnBs8F/view?usp=drive_link)
+* [Click here](https://drive.google.com/file/d/12k_Am8167lxMVvJp1KIhN8UokyJnBs8F/view?usp=drive_link)
 
 
 # Questions 
 
 For questions or further information, please contact me:
 
-* ![Email](mailto:prek.ps37@gmail.com?subject=[GitHub]%20Dev%20Connect)
+* [Email](mailto:prek.ps37@gmail.com?subject=[GitHub]%20Dev%20Connect)
 
-* GitHub - ![Preksha2408](https://github.com/Preksha2408/SVG-Logo-Generator-Challenge10.git)
+* GitHub - [Preksha2408](https://github.com/Preksha2408/SVG-Logo-Generator-Challenge10.git)
 
